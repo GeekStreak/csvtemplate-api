@@ -1,0 +1,42 @@
+{
+    "campaigns": [
+      {
+        "Template Name": "Template 1",
+        "campaign_data": [
+          {
+            "Campaign Name": "Example Campaign 1",
+            "Campaign Type": "Example Campaign Type 1",
+            "Location": "United States",
+            "Start Date": "2023-10-01",
+            "End Date": "2023-10-31",
+            "Keyword": "Keyword",
+            "Ad Group": "Ad Group",
+            "Ad Text": "Ad Text",
+            "Max CPC": 2.00,
+            "Website URL": "www.exampleurl.com",
+            "Budget": "100"
+          }
+        ]
+      },
+      {
+        "Template Name": "Template 2",
+        "campaign_data": [
+          {
+            "Campaign Name": "Example Campaign 2",
+            "Campaign Type": "Example Campaign Type 2",
+            "Location": "United States",
+            "Start Date": "2023-10-01",
+            "End Date": "2023-10-31",
+            "Keyword": "Keyword",
+            "Ad Group": "Ad Group",
+            "Ad Text": "Ad Text",
+            "Max CPC": 2.00,
+            "Website URL": "www.exampleurl.com",
+            "Budget": "150"
+          }
+        ]
+      }
+    ]
+  }
+  
+  
